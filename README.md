@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roney Mugambi</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://www.rofazayn.com/images/hero.gif"> 
 
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@roney mugambi" target="blank"><img src="https://img.shields.io/twitter/follow/@roney mugambi?logo=twitter&style=for-the-badge" alt="@roney mugambi" /></a> </p>
 
-- 🔭 I’m currently working on **Real Estate App**
+- 🔭 I’m currently working on **A Real Estate App**
 
-- 🌱 I’m currently learning **Golang ,**
+- 🌱 I’m currently learning **Golang , **
 
 - 📫 How to reach me **ronnymugambi97@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
