@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **A Real Estate App**
 
-- 🌱 I’m currently learning **Golang , **
+- 🌱 I’m currently learning ** Everything **
 
 - 📫 How to reach me **ronnymugambi97@gmail.com**
 
